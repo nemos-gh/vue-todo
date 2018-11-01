@@ -1,5 +1,7 @@
 # Vue Todo List
 
+Playin' around with the Vue framework.
+
 ## Project setup
 ```
 yarn install
