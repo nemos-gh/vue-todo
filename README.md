@@ -2,6 +2,8 @@
 
 Playin' around with the Vue framework.
 
+[Check the Demo](http://aboutn.com/gh/vue-todo)
+
 ## Project setup
 ```
 yarn install
