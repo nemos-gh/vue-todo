@@ -2,7 +2,7 @@
 
 Playin' around with the Vue framework.
 
-[Check the Demo](http://aboutn.com/gh/vue-todo)
+[Check the Demo](http://codenorth.dev/gh/vue-todo)
 
 ## Project setup
 ```
